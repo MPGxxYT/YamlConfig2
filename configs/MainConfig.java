@@ -1,8 +1,8 @@
 package me.mortaldev.gtop.configs;
 
 import me.mortaldev.gtop.Main;
-import me.mortaldev.gtop.modules.config.AbstractConfig;
-import me.mortaldev.gtop.modules.config.YamlConfig;
+import me.mortaldev.gtop.modules.config.modules.AbstractConfig;
+import me.mortaldev.gtop.modules.config.modules.YamlConfig;
 import me.mortaldev.gtop.modules.gang.GangManager;
 import org.bukkit.configuration.file.FileConfiguration;
 
